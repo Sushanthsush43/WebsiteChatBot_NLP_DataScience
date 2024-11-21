@@ -1,4 +1,4 @@
-# 📢 AI-Powered Chatbot
+#  AI-Powered Chatbot
 
 This project is an AI-powered chatbot designed to answer user queries instantly. The chatbot uses a combination of natural language processing (NLP) and web scraping to provide information based on content from a website and a JSON file. It’s built using Python, Flask, and JavaScript, making it a seamless and interactive web-based chatbot.
 
