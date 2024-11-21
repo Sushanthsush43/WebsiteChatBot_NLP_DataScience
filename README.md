@@ -32,27 +32,6 @@ This project is an AI-powered chatbot designed to answer user queries instantly.
 - **Greet the Bot**: Try simple greetings like "Hello", "Hi", or "Hey".
 - **Ask for Information**: The bot can answer questions based on the website content and JSON data.
 
-## 📂 Project Structure
-
-```
-/chatbot
-│
-├── assets/                    # Assets like images, logos, etc.
-│   └── images/
-│       
-│
-├── app.py                     # Flask application
-├── requirements.txt           # Required Python packages
-├── static/                    # Static assets (CSS, JS)
-│   ├── chatBot.css            # Chatbot styling
-│   └── chatBot.js             # Frontend logic
-│
-├── templates/                 # HTML templates
-│   └── index.html             # Main chat UI
-│
-├── README.md                  # This README file
-└── MDSResponse.json           # Sample JSON data for chatbot queries
-```
 
 ## 🧐 How It Works
 
@@ -64,7 +43,5 @@ This project is an AI-powered chatbot designed to answer user queries instantly.
    - A response is generated using sentence embeddings and similarity scoring.
 3. **Bot Response**: The response is sent back to the frontend and displayed in the chat window.
 
----
-
-Feel free to adjust any section or add more details specific to your project's requirements.<img src="https://github.com/Sushanthsush43/WebsiteChatBot_NLP_DataScience/blob/main/assets/images/Screenshot%20(242).png" alt="Image Alt Text" style="width:300px;" />
-<img src="https://github.com/Sushanthsush43/WebsiteChatBot_NLP_DataScience/blob/main/assets/images/Screenshot%20(243).png" alt="Image Alt Text" style="width:300px;" />
+# <img src="https://github.com/Sushanthsush43/WebsiteChatBot_NLP_DataScience/blob/main/assets/images/Screenshot%20(242).png" alt="Image Alt Text" style="width:300px;" />
+# <img src="https://github.com/Sushanthsush43/WebsiteChatBot_NLP_DataScience/blob/main/assets/images/Screenshot%20(243).png" alt="Image Alt Text" style="width:300px;" />
