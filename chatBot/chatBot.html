@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot UI</title>
+    <link rel="stylesheet" href="chatBot.css">
+</head>
+<body>
+    <div class="chat-container">
+        <header class="chat-header">
+            <div class="logo">
+                <h1>ChatBot</h1>
+                <!-- <img src="/assets/images/bot1.webp" alt="Chatbot Logo"> -->
+            </div>
+            <button class="minimize-btn" id="minimize-btn">—</button>
+        </header>
+        <div class="chat-messages" id="chat-messages">
+            <div class="bot-message">
+                <img src="/assets/images/bot1.webp" alt="Bot Icon" class="bot-icon">
+                <p>Hey there, how can I help you?</p>
+            </div>
+        </div>
+        <form id="chat-form">
+            <input type="text" id="user-input" placeholder="Send a message..." autocomplete="off" required>
+            <button type="submit" class="send-btn">&#10148;</button>
+        </form>
+    </div>
+
+    <button id="chat-toggle" class="chat-toggle hidden">
+        <img src="/assets/images/bot1.webp" alt="Chat Icon">
+    </button>
+
+    <script src="chatBot.js"></script>
+</body>
+</html>
