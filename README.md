@@ -43,5 +43,5 @@ This project is an AI-powered chatbot designed to answer user queries instantly.
    - A response is generated using sentence embeddings and similarity scoring.
 3. **Bot Response**: The response is sent back to the frontend and displayed in the chat window.
 
-# <img src="https://github.com/Sushanthsush43/WebsiteChatBot_NLP_DataScience/blob/main/assets/images/Screenshot%20(242).png" alt="Image Alt Text" style="width:300px;" />
-# <img src="https://github.com/Sushanthsush43/WebsiteChatBot_NLP_DataScience/blob/main/assets/images/Screenshot%20(243).png" alt="Image Alt Text" style="width:300px;" />
+# <img src="https://github.com/Sushanthsush43/WebsiteChatBot_NLP_DataScience/blob/main/assets/images/Screenshot%20(242).png" alt="Image Alt Text" style="width:900px;" />
+# <img src="https://github.com/Sushanthsush43/WebsiteChatBot_NLP_DataScience/blob/main/assets/images/Screenshot%20(243).png" alt="Image Alt Text" style="width:900px;" />
