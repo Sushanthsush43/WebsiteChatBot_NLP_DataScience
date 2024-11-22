@@ -2,7 +2,7 @@
 
 This project is an AI-powered chatbot designed to answer user queries instantly. The chatbot uses a combination of natural language processing (NLP) and web scraping to provide information based on content from a website and a JSON file. It’s built using Python, Flask, and JavaScript, making it a seamless and interactive web-based chatbot.
 
-## ✨ Features
+## Features
 
 - **Instant Responses**: The chatbot is designed to respond instantly to user queries, giving a seamless conversational experience.
 - **Natural Language Processing**: Utilizes NLP for understanding and generating responses.
@@ -12,7 +12,7 @@ This project is an AI-powered chatbot designed to answer user queries instantly.
 - **Dynamic Content Handling**: Answers both basic greetings and complex queries with detailed responses.
 - **Error Handling**: Provides friendly feedback if the query cannot be processed.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Backend**:
   - [Python](https://www.python.org/)
@@ -25,7 +25,7 @@ This project is an AI-powered chatbot designed to answer user queries instantly.
   - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - Styling
   - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Frontend logic
 
-## 📚 Usage
+## Usage
 
 - **Start a Conversation**: Type your message in the input field and hit the "send" button.
 - **Receive Responses**: The bot will instantly respond with an appropriate answer.
@@ -33,7 +33,7 @@ This project is an AI-powered chatbot designed to answer user queries instantly.
 - **Ask for Information**: The bot can answer questions based on the website content and JSON data.
 
 
-## 🧐 How It Works
+## How It Works
 
 1. **User Input**: The user types a query into the chat window.
 2. **Backend Processing**:
